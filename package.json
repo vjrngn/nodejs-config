@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-config",
+  "version": "0.0.0",
+  "description": "Configuration management for nodejs projects from different sources",
+  "main": "main.js",
+  "author": "Vijay Rangan",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "url": "https://github.com/vjrngn/nodejs-config"
+  }
+}
