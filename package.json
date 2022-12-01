@@ -8,5 +8,15 @@
   "private": false,
   "repository": {
     "url": "https://github.com/vjrngn/nodejs-config"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "jest": "^29.3.1"
   }
 }
